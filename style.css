@@ -1,0 +1,30 @@
+p:nth-child(1){
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 12pt;
+	font-weight: 3px;
+	line-height: 18pt;
+	letter-spacing: 1.5;
+	width: 500px;
+	text-align: center;
+	align-content: center;
+}
+p:nth-child(2){
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 12pt;
+	font-weight: 3px;
+	line-height: 18pt;
+	letter-spacing: 1.5;
+	width: 500px;
+	text-align: center;
+	align-content: center;
+}
+p:nth-child(3){
+	font-family: 'Indie Flower', cursive;
+	font-size: 12pt;
+	font-weight: 3px;
+	line-height: 18pt;
+	letter-spacing: 1.5;
+	width: 500px;
+	text-align: center;
+	align-content: center;
+}
